@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 40px;
+}
+.anik{
+    width:25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.anik img{
+    width: 100%;
+}
+.half img{
+    width: 70%;
+}
+.half p{
+    margin: 25px 0;
+    color: brown;
+    }
+.button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5%;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato );
+    color: white;
+    font-weight: 700; 
+}
+.head{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 600px;
+    margin-bottom: 100px;
+}
+.two{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.half2{
+    width: 40%;
+    float: left;
+    margin-top: 200px;
+}
+.half2 p{
+        margin: 25px 0;
+        color: cadetblue;
+}
+.three{
+        background-image: url(images/latest-work-bg.png);
+        background-repeat: no-repeat;
+        height: 400px;
+}
+.three h1 {    
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.last h1{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.last h4{
+    text-align: center;
+    font-weight: 500;
+}
+
+.last p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 12px;
+    margin-bottom: 35px;
+}
+footer p{
+    text-align: center;
+    font-size: x-small;
+}
+.cv{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 3%;
+    background-image: linear-gradient( 45deg, orange, tomato );
+    color: white;
+    font-weight: 400;
+    font-size: x-small; 
+    width: 40%;
+    margin: auto;
+}
+.last{
+        height: 400px;
+       
+}
