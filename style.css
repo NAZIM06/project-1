@@ -48,15 +48,19 @@ section{
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
 .half2{
     width: 40%;
     float: left;
     margin-top: 200px;
 }
+
 .half2 p{
         margin: 25px 0;
         color: cadetblue;
 }
+
 .three{
         background-image: url(images/latest-work-bg.png);
         background-repeat: no-repeat;
@@ -65,13 +69,15 @@ section{
 }
 .three h1 {    
     text-align: center;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 50px;
+    font-size: xx-large;
 }
 .last h1{
     text-align: center;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 50px;
+    font-size: xx-large;
     
     
 }
