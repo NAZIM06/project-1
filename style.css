@@ -69,6 +69,7 @@ section{
     text-align: center;
     font-weight: 500;
     margin-bottom: 50px;
+    
 }
 .last h4{
     text-align: center;
@@ -100,5 +101,7 @@ footer p{
 }
 .last{
         height: 400px;
+        background-image: url(images/footer-bg.png);
+        background-repeat: no-repeat;
        
 }
