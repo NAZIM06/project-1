@@ -37,16 +37,19 @@ body{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     
 }
 section{
     height: 600px;
-    margin-bottom: 100px;
+    padding: 50px;
+   
 }
 .two{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 
@@ -65,7 +68,8 @@ section{
         background-image: url(images/latest-work-bg.png);
         background-repeat: no-repeat;
         background-position: center;
-        height: 400px;
+        height: 600px;
+        background-size: cover;
 }
 .three h1 {    
     text-align: center;
@@ -110,10 +114,11 @@ footer p{
     margin: auto;
 }
 .last{
-        height: 400px;
+        height: 600px;
         background-image: url(images/footer-bg.png);
         background-repeat: no-repeat;
         background-position: center;
+        background-size: cover;
        
 }
 
